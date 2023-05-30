@@ -1,0 +1,22 @@
+{
+    "Amazon": {
+        "email": "test@gmail.com",
+        "password": "testpw"
+    },
+    "Apple": {
+        "email": "test@gmail.com",
+        "password": "testpw"
+    },
+    "Disney+": {
+        "email": "test@gmail.com",
+        "password": "testpw"
+    },
+    "Google": {
+        "email": "test@gmail.com",
+        "password": "testpw"
+    },
+    "Microsoft": {
+        "email": "test@gmail.com",
+        "password": "testpw"
+    }
+}

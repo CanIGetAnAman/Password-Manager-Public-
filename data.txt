@@ -1,0 +1,6 @@
+Amazon | test@gmail.com | testpw
+Apple | test@gmail.com | testpw
+Disney+ | test@gmail.com | testpw
+Google | test@gmail.com | testpw
+
+
